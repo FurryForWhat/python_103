@@ -1,0 +1,6 @@
+basic input / output
+function (လုပ်ဆောင်ချက်တစ်ခုကို လုပ်ဆောင်ပေးတာ)
+comment
+static
+dynamic
+python function (or) method
