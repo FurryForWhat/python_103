@@ -1,0 +1,28 @@
+Operator
+Arithmetic Operator ( +, - , * , / , //(စားလဒ်) , %(အကြွင်း))
+logical Operator (and (နှစ်ခုစလုံးတူမှ အလုပ်လုပ်), or (တစ်ခုသို့မဟုတ်တစ်ခု), not)
+Bitwise Operator
+Comparison Operator (> , < , >= , <= , == (equal), !=(not equal))
+Special Operator
+
+10 / 2 = 5
+10 // 2 = 5
+10 % 2 = 0
+
+Homework one
+a = bool(input('first input'))
+b = bool(input('second input'))
+#True True
+#True False
+#False True
+#False False
+
+Homework two
+a = int(input('first input'))
+b = int(input('second input'))
+
+first = a >=b
+second = a <= b
+third = a == b
+fourth = a != b
+print ()
