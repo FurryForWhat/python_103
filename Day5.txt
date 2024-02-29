@@ -1,0 +1,10 @@
+Condition အခြေအနေ
+age = 30
+if age > 18 (18နှစ်အထက်ကြီးရင်) , allowed 
+else (18နှစ်အောက်) , not allowed
+
+age = 30
+if age > 18 :
+ print('allowed')
+else:
+ print('not allowed')
