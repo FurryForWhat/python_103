@@ -1,0 +1,18 @@
+output သုံးမျိုးရှိ
+
+1.
+print(variableနဲ့ထုတ်တာ)
+print(+ လက္ခဏာနဲ့ သုံးလို့ရတယ်) 
+print( int + int) ( + အပေါင်းလက္ခဏာကို arithmetic operator  လို့ခေါ်)
+print( str + str) ( + အပေါင်းလက္ခဏာကို string concatenation လို့ခေါ်)
+print ( , )
+
+
+2. 
+data = 12
+print( "5 is less than {}".format(data)) .formatနဲ့ရေးတာ
+
+
+3.
+data = 12
+print(f"5 is less than {data}") outputမှာ fနဲ့သုံးတာကို string literal လို့ခေါ်တယ်။
